@@ -1,7 +1,7 @@
 # TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction
 
 ## Overview
-This is the official implementation of the NeurIPS 2025 paper: *TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction*. 
+This is the official implementation of the NeurIPS 2025 paper: [*TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction*](https://arxiv.org/abs/2510.23577). 
 
 Our code is developed based on the codebase of the paper: [Towards Better Dynamic Graph Learning: New Architecture and Unified Library](https://arxiv.org/abs/2303.13047). We made modifications to four files: **models/modules.py**, **train_link_prediction.py**, **evaluate_link_prediction.py**, and **evaluate_model_utils.py**.
 
