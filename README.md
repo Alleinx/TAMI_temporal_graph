@@ -50,4 +50,11 @@ python evaluate_link_prediction.py --dataset_name wikipedia --model_name GraphMi
 python evaluate_link_prediction.py --dataset_name wikipedia --model_name GraphMixer --load_best_configs --num_runs 5 --gpu 0
 ```
 ## Citation
-Will be added later.
+```
+@inproceedings{yu2025tami,
+  title={{TAMI}: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction},
+  author={Zhongyi Yu and Jianqiu Wu and Zhenghao Wu and Shuhan Zhong and Weifeng Su and Chul-Ho Lee and Weipeng Zhuo},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}
+```
